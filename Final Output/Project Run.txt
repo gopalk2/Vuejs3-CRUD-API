@@ -1,0 +1,12 @@
+
+Technology:- 
+-------------
+FrontEnd-> Vuejs3 
+ Design:->  Tailwind CSS
+BackEnd->  JSON-Server for API, Axios package for API
+ 
+Run:-
+---------
+UI-Run= npm run dev /serve
+API-Run= json-server --watch db.json --port 3333
+
